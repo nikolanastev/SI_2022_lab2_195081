@@ -4,7 +4,7 @@
 
 ## Control Flow Graph
 
-# ![CFGSS](https://user-images.githubusercontent.com/68243750/170890700-a9ba097d-32d0-4a86-a3a6-5490ed81a155.png)
+# ![image](https://user-images.githubusercontent.com/68243750/170898978-47e7a58c-a39d-48ee-9dc3-c16c20c5e309.png)
 
 ## Цикломатска комплексност
 
