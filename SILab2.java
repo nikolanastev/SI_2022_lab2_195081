@@ -37,6 +37,6 @@ public class SILab2 {
             }
         }
         return numMines; // 21
-    }
+    } //22
 }
 
