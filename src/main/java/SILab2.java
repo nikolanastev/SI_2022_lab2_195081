@@ -32,11 +32,15 @@ public class SILab2 {
                 }
                 numMines.add(String.valueOf(num)); // 19
             }
-            else { 
+            else {
                 numMines.add(list.get(i)); // 20
             }
         }
         return numMines; // 21
     } //22
-}
 
+    public static void main(String[] args) {
+        System.out.println(function(List.of("0", "#", "0", "#", "0", "#", "0", "#", "0"))); // every statement
+        System.out.println(function(List.of("0", "#", "0", "#", "#", "0", "#", "#", "0", "#", "0", "#", "0", "0", "0", "#"))); // every branch
+    }
+}
